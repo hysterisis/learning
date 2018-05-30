@@ -1,2 +1,2 @@
 # learning
-Git repo for all my self learning excercises
+Git repo for all my self learning exercises
